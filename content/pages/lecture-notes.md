@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: d613e8ec-9942-1310-133f-2e600a44a333
 ---
@@ -127,7 +130,7 @@ Frontier molecular orbitals of σ-donor, π-donor and π-acceptor ligands ([PDF
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Octahedral ML6 σ complexes ([PDF]({{< baseurl >}}/resources/lecture_12))
+Octahedral ML{{< sub "6" >}} σ complexes ([PDF]({{< baseurl >}}/resources/lecture_12))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +139,7 @@ Octahedral ML6 σ complexes ([PDF]({{< baseurl >}}/resources/lecture_12))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Octahedral ML6 π complexes ([PDF]({{< baseurl >}}/resources/lecture_13))
+Octahedral ML{{< sub "6" >}} π complexes ([PDF]({{< baseurl >}}/resources/lecture_13))
 {{< tdclose >}}
 
 {{< trclose >}}

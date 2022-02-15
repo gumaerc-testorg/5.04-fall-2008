@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3a8dbcc0-9c41-dd25-7500-6a740644124c
 ---
@@ -234,7 +236,7 @@ Frontier molecular orbitals of σ-donor, π-donor and π-acceptor ligands
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Octahedral ML6 σ complexes
+Octahedral ML{{< sub "6" >}} σ complexes
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 2 due
@@ -246,7 +248,7 @@ Problem set 2 due
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Octahedral ML6 π complexes
+Octahedral ML{{< sub "6" >}} π complexes
 {{< tdclose >}}
 {{< tdopen >}}
  
