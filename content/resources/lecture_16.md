@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d613e8ec-9942-1310-133f-2e600a44a333
 resourcetype: Document
 title: 'Lecture 16: Introduction to Spectroscopy'
 uid: 1b25fc46-328b-3e29-f0ec-137162543f2a

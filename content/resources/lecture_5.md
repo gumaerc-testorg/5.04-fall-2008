@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d613e8ec-9942-1310-133f-2e600a44a333
 resourcetype: Document
 title: 'Lecture 5: Molecular Point Groups 2'
 uid: 486f4e83-e1fe-dca5-81d9-29ad0866d673

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d613e8ec-9942-1310-133f-2e600a44a333
 resourcetype: Document
 title: 'Lecture 21: Descent in Symmetry'
 uid: 03083e24-ea2a-7eb0-c677-144e3b2faef8

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d613e8ec-9942-1310-133f-2e600a44a333
 resourcetype: Document
 title: 'Lecture 28: Normal Coordinate Analysis'
 uid: 43c0d4a3-4167-426f-adf1-534055f348b7

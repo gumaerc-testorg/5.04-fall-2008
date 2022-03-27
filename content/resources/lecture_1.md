@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d613e8ec-9942-1310-133f-2e600a44a333
 resourcetype: Document
 title: 'Lecture 1: Symmetry Elements and Operations'
 uid: 02f79172-3cf3-dae6-e844-aa5b92ca9352

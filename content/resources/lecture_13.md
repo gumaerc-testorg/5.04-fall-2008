@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d613e8ec-9942-1310-133f-2e600a44a333
 resourcetype: Document
 title: "Lecture 13: Octahedral ML6 \u03C0 Complexes"
 uid: 160223b6-f3b2-769b-4f38-a44795b5900c

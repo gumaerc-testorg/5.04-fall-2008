@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d613e8ec-9942-1310-133f-2e600a44a333
 resourcetype: Document
 title: 'Lecture 25: Metal-Metal Bonding: Single Bonds'
 uid: 27bd09cb-dc97-a2c0-7c75-a25ef37582d1

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d613e8ec-9942-1310-133f-2e600a44a333
 resourcetype: Document
 title: "Lecture 7: H\xFCckel Theory 2 (Eigenvalues)"
 uid: faf9c6f3-9c6d-82ce-99f7-08844cb8f7fa

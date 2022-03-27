@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d613e8ec-9942-1310-133f-2e600a44a333
 resourcetype: Document
 title: 'Lecture 26: Vibrational Spectroscopy'
 uid: ce3da1e6-2435-5a9c-33e3-0e4e13c9fffd
