@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the five problem sets for the course. The fifth
+  problem set is a selection of practice problems for the final exam.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -21,32 +23,32 @@ ASSIGNMENTS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 1, part 1 ([PDF]({{< baseurl >}}/resources/5_04_f08_ps1))  
-Problem set 1, part 2 ([PDF]({{< baseurl >}}/resources/5_04_f08_ps1_pt2))
+Problem set 1, part 1 ({{% resource_link 3a21c38d-b497-1037-3b96-59f4b8caed0b "PDF" %}})  
+Problem set 1, part 2 ({{% resource_link dcfb7f32-d536-aa08-6f7c-f7fd331eb6ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 2 ([PDF]({{< baseurl >}}/resources/5_04_f08_ps2))
+Problem set 2 ({{% resource_link 23319ec8-fe9f-7185-9984-a134e4e2921c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 3 ([PDF]({{< baseurl >}}/resources/5_04_f08_ps3))
+Problem set 3 ({{% resource_link e8229b92-9d3a-d374-7704-8759cb21bf6d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 4 ([PDF]({{< baseurl >}}/resources/5_04_f08_ps4))
+Problem set 4 ({{% resource_link 5c7eba84-1319-c650-f193-f9f22ab92317 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Optional problem set 5 ([PDF]({{< baseurl >}}/resources/5_04_f08_ps5))
+Optional problem set 5 ({{% resource_link 50607607-256f-a5a7-830e-689dd1b7303b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

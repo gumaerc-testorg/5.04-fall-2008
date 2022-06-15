@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the three exams for the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -21,19 +22,19 @@ EXAMS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Exam 1 ([PDF]({{< baseurl >}}/resources/exam_1))
+Exam 1 ({{% resource_link dbf577c7-6a18-ad43-e259-188fbb6979c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Exam 2 ([PDF]({{< baseurl >}}/resources/exam2))
+Exam 2 ({{% resource_link 1a0e8293-bcfb-966d-77f5-12526ea523f7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Exam 3 ([PDF]({{< baseurl >}}/resources/exam3))
+Exam 3 ({{% resource_link a0527746-3d00-a394-d388-80faf0800fbf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
