@@ -5,6 +5,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/02f791723cf3d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 1: Symmetry Elements and Operations'
 uid: 02f79172-3cf3-dae6-e844-aa5b92ca9352
 ---
 Lecture notes on symmetry elements and operations.
-

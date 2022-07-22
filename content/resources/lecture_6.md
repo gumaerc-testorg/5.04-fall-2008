@@ -6,6 +6,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/fec06b2fe9259
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Lecture 6: LCAO and H\xFCckel Theory 1 (Eigenfunctions)"
 uid: fec06b2f-e925-9584-f9d6-d736af518cd7
 ---
 Lecture notes on linear combination of atomic orbitals (LCAOs) and Hückel theory.
-

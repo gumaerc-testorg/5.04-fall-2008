@@ -5,6 +5,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/dbf577c76a18a
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Exam 1
 uid: dbf577c7-6a18-ad43-e259-188fbb6979c3
 ---
 Exam on the principles of inorganic chemistry.
-

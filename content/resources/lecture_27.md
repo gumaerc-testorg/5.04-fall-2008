@@ -5,6 +5,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/ddfabfae18bad
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 27: The Raman Experiment'
 uid: ddfabfae-18ba-df3e-0724-0844d5c9fde3
 ---
 Lecture notes on the Raman experiment.
-

@@ -5,6 +5,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/faf9c6f39c6d8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Lecture 7: H\xFCckel Theory 2 (Eigenvalues)"
 uid: faf9c6f3-9c6d-82ce-99f7-08844cb8f7fa
 ---
 Lecture notes on using the Hückel approximation to determine eigenvalues.
-

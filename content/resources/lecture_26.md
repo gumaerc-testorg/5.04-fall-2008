@@ -5,6 +5,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/ce3da1e624355
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 26: Vibrational Spectroscopy'
 uid: ce3da1e6-2435-5a9c-33e3-0e4e13c9fffd
 ---
 Lecture notes on vibrational spectroscopy.
-

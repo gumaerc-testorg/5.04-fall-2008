@@ -5,6 +5,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/27bd09cbdc97a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 25: Metal-Metal Bonding: Single Bonds'
 uid: 27bd09cb-dc97-a2c0-7c75-a25ef37582d1
 ---
 Lecture notes on metal-metal bonding and single bonds.
-

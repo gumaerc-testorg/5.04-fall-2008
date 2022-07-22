@@ -5,6 +5,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/5396f84543926
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 10: General Electronic Considerations of Metal-Ligand Complexes'
 uid: 5396f845-4392-6523-acaf-86e2a23c98b0
 ---
 Lecture notes on general electronic considerations of metal-ligand complexes.
-

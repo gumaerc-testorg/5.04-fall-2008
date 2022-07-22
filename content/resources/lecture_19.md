@@ -5,6 +5,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/03e40b44de397
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 19: Tanabe Sugano Diagrams'
 uid: 03e40b44-de39-7dfe-3071-6d0611f60ff6
 ---
 Lecture notes on Tanabe Sugano diagrams.
-

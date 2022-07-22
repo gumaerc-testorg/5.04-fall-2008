@@ -5,6 +5,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/35726646a415c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 3: Irreducible Representations and Character Tables'
 uid: 35726646-a415-c1b4-f6e2-20603a715e01
 ---
 Lecture notes on irreducible representations and character tables.
-

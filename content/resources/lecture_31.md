@@ -5,6 +5,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/867d73ee0bfac
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 31: Transition Metal Magnetism'
 uid: 867d73ee-0bfa-cb2e-f563-fb54f7f73039
 ---
 Lecture notes on transition metal magnetism.
-

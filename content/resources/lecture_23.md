@@ -5,6 +5,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/fdf24776abcea
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 23: Multiply Bonded Metal-Ligand Complexes'
 uid: fdf24776-abce-a6d8-8d24-f2bcb6da4335
 ---
 Lecture notes on multiply bonded metal-ligand complexes.
-

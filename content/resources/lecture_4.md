@@ -5,6 +5,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/78cfd93ba2116
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 4: Molecular Point Groups 1'
 uid: 78cfd93b-a211-6513-0a80-a54480f19f18
 ---
 Lecture notes on molecular point groups.
-

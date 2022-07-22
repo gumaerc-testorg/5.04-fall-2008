@@ -6,6 +6,7 @@ file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/dd385146ba579
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 24: Sandwich Compounds'
 uid: dd385146-ba57-9d8e-c6c0-ee4460c610d3
 ---
 Lecture notes on sandwich compounds, the electronic structure of organometallic complexes, and the group orbital fragment approach.
-
