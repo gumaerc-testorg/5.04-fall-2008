@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on multiply bonded metal-ligand complexes.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/fce73dc338bbcc21125f90c516d1365f_lecture_22.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/fce73dc338bbcc21125f90c516d1365f_lecture_22.pdf
+file_size: 299409
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

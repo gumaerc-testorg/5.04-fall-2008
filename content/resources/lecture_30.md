@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on magnetic susceptibility and the Van Vleck equation.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/5eebf03596f509e5fee1f8fcc1ca1708_lecture_30.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/5eebf03596f509e5fee1f8fcc1ca1708_lecture_30.pdf
+file_size: 215838
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

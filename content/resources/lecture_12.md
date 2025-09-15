@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on octahedral ML6 sigma complexes.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/76d1d652dc0ac367075ba9a7674bbab7_Lecture_12.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/76d1d652dc0ac367075ba9a7674bbab7_Lecture_12.pdf
+file_size: 386758
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: "Lecture notes on using the H\xFCckel approximation to determine eigenvalues."
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/faf9c6f39c6d82ce99f708844cb8f7fa_Lecture_7.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/faf9c6f39c6d82ce99f708844cb8f7fa_Lecture_7.pdf
+file_size: 218041
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

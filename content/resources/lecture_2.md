@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on operator properties and mathematical groups.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/5f71ba722849ce14aeaf296d9ebb2fe0_Lecture_2.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/5f71ba722849ce14aeaf296d9ebb2fe0_Lecture_2.pdf
+file_size: 248687
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

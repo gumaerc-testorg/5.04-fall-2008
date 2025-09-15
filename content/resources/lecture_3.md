@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on irreducible representations and character tables.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/35726646a415c1b4f6e220603a715e01_Lecture_3.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/35726646a415c1b4f6e220603a715e01_Lecture_3.pdf
+file_size: 282576
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on molecular point groups.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/486f4e83e1fedca581d929ad0866d673_Lecture_5.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/486f4e83e1fedca581d929ad0866d673_Lecture_5.pdf
+file_size: 881188
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

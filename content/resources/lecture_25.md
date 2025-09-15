@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on metal-metal bonding and single bonds.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/27bd09cbdc97a2c07c75a25ef37582d1_lecture_25.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/27bd09cbdc97a2c07c75a25ef37582d1_lecture_25.pdf
+file_size: 232275
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

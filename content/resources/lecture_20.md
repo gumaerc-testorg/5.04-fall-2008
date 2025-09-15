@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on selection rules for electronic transitions.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/5227c68c7fc189c1ebda3aef3e0e6356_lecture_20.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/5227c68c7fc189c1ebda3aef3e0e6356_lecture_20.pdf
+file_size: 200516
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

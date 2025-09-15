@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes with an introduction to spectroscopy.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/1b25fc46328b3e29f0ec137162543f2a_lecture_16.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/1b25fc46328b3e29f0ec137162543f2a_lecture_16.pdf
+file_size: 159724
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

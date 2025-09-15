@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on the strong field (electronic configurations).
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/12230c7cce38fa1ce0036f5cc2796ae8_lecture_18.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/12230c7cce38fa1ce0036f5cc2796ae8_lecture_18.pdf
+file_size: 326319
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Exam on the principles of inorganic chemistry.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/1a0e8293bcfb966d77f512526ea523f7_exam2.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/1a0e8293bcfb966d77f512526ea523f7_exam2.pdf
+file_size: 216825
 file_type: application/pdf
 learning_resource_types:
 - Exams

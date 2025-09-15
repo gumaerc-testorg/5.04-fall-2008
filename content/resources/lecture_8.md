@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes on N-dimensional cyclic systems and a derivation of the
   LCAO eigenfunctions and eigenvalues of N total number of orbitals in a cyclic arrangement.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/3b46e36097203678afaf3974a9133a4b_Lecture_8.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/3b46e36097203678afaf3974a9133a4b_Lecture_8.pdf
+file_size: 251100
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,7 +2,8 @@
 content_type: resource
 description: "Lecture notes on linear combination of atomic orbitals (LCAOs) and H\xFC\
   ckel theory."
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/fec06b2fe9259584f9d6d736af518cd7_Lecture_6.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/fec06b2fe9259584f9d6d736af518cd7_Lecture_6.pdf
+file_size: 310634
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

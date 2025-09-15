@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on the Raman experiment.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/ddfabfae18badf3e07240844d5c9fde3_lecture_27.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/ddfabfae18badf3e07240844d5c9fde3_lecture_27.pdf
+file_size: 201708
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on spin orbit coupling, double groups, and ligand fields.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/40a841713c0596b7ae723ad8d9b4cca2_lecture_29.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/40a841713c0596b7ae723ad8d9b4cca2_lecture_29.pdf
+file_size: 220738
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

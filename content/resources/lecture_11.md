@@ -3,7 +3,8 @@ content_type: resource
 description: "Lecture notes on three general classes of ligands, as defined by their\
   \ frontier orbitals: \u03C3-donor ligands, \u03C0-donor ligands and \u03C0-acceptor\
   \ ligands."
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/2bb4f659d461df647af1332e81e4be60_Lecture_11.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/2bb4f659d461df647af1332e81e4be60_Lecture_11.pdf
+file_size: 886653
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

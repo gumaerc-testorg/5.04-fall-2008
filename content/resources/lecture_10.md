@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on general electronic considerations of metal-ligand complexes.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/5396f84543926523acaf86e2a23c98b0_Lecture_10.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/5396f84543926523acaf86e2a23c98b0_Lecture_10.pdf
+file_size: 827882
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on normal coordinate analysis.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/43c0d4a34167426fadf1534055f348b7_lecture_28.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/43c0d4a34167426fadf1534055f348b7_lecture_28.pdf
+file_size: 290831
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

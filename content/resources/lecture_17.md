@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on the weak field (Russell-Saunders coupling).
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/481547c3feb9d34fdb71d58ffe9278a7_lecture_17.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/481547c3feb9d34fdb71d58ffe9278a7_lecture_17.pdf
+file_size: 210331
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

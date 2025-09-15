@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on Tanabe Sugano diagrams.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/03e40b44de397dfe30716d0611f60ff6_lecture_19.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/03e40b44de397dfe30716d0611f60ff6_lecture_19.pdf
+file_size: 165034
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

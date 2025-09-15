@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes on sandwich compounds, the electronic structure of organometallic
   complexes, and the group orbital fragment approach.
-file: /courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/dd385146ba579d8ec6c0ee4460c610d3_lecture_24.pdf
+file: /ol-ocw-studio-app/courses/5-04-principles-of-inorganic-chemistry-ii-fall-2008/dd385146ba579d8ec6c0ee4460c610d3_lecture_24.pdf
+file_size: 799827
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
